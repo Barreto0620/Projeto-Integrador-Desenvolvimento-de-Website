@@ -1,4 +1,4 @@
-# Projeto Integrador Desenvolvimento de Website
+# Projeto Integrador Desenvolvimento de Website - Faculdade Senac
 
 Bem-vindo ao meu repositório de projetos de desenvolvimento web, onde compartilho as práticas, trabalhos e projetos que desenvolvi durante minha graduação na Faculdade Senac.
 Aqui, você encontrará uma variedade de projetos, incluindo HTML, CSS, JavaScript, Bootstrap e outras tecnologias web.
