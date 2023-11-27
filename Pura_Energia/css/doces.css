@@ -49,6 +49,7 @@ header a {
 
 .menu a:hover {
     color: rgb(0, 0, 0);
+    
 }
 
 .underline::before {
@@ -190,4 +191,4 @@ footer a:hover{
 
 .menu a:hover{
     transition: background-color 0.3s ease;
-}
+}   
