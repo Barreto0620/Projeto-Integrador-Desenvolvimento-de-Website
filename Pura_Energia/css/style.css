@@ -95,7 +95,7 @@ header a {
 }
 
 .img-banner {
-  width: 95vw; /* 95% da largura da tela */
+  width: 94vw; /* 95% da largura da tela */
   height: 80vh; /* 80% da altura da tela */
   border-radius: 10px;
 }
