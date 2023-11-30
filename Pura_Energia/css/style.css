@@ -227,6 +227,7 @@ footer {
 
 .conteudo_footer img {
   height: 120px;
+  margin-left: 10%;
 }
 
 .contatos_footer{
@@ -295,6 +296,7 @@ footer {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
+  align-items: center;
 }
 
 
@@ -302,6 +304,7 @@ footer {
   height: 80%;
   width: 50%;
 }
+
 
 .footer_copyright {
   display: flex;
