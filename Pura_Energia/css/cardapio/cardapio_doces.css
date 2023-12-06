@@ -54,6 +54,18 @@
     transition: background-color 0.5s ease;
   }
 
+  .button_home1 {
+    background-color: #000000;
+    border-radius: 10px;
+    padding: 15px;
+    cursor: auto;
+    color: #fff;
+    font-size: 22px;
+    margin-top: 20px;
+    border: none;
+    transition: background-color 0.5s ease;
+  }
+
   .button_acai {
     background-color: #fd99a2;
     border-radius: 10px;
@@ -134,6 +146,7 @@
   }
   
   .div_novidades img {
+    cursor: pointer;
     width: 28vw;
     height: 48vh;
     margin: 20px;
@@ -186,6 +199,7 @@
   }
   
   .div_hall img {
+    cursor: pointer;
     width: 28vw;
     height: 48vh;
     margin: 20px;
